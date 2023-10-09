@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+/*ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 20% ;
+     margin-right: 10%;
+}
+li{
+    background-color: white;
+    transition: background-color 0.5s;
+}
+li:hover{ 
+background-color:blueviolet
+}*/
+#img-logo{ 
+    width: 255px;
+}
