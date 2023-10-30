@@ -32,6 +32,12 @@ h1{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+#tizas{
+    width: 70px;
+    background-image: url(imagenes/pixil-frame-0\ \(21\).png);
+    background-repeat: repeat-y;
+    background-size: 70px;
+}
 #queso{
     width: 70px;
     background-image: url(imagenes/final.png);
